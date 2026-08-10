@@ -14,4 +14,3 @@
 Descrição do problema escolhido.
 ---
 ## Aprendizados
-Registro reflexivo sobre evolução no semestre.
