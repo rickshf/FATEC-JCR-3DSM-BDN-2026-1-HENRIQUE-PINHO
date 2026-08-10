@@ -1,2 +1,17 @@
-# FATEC-JCR-3DSM-BDN-2026-2-HENRIQUE-PINHO
-Disciplina de Banco de Dados Não-Relacional – 3º semestre DSM – 2026/2
+# Portfólio – Banco de Dados Não-Relacional – 2026/1
+## Aluno
+- Nome: Henrique Almeida Pinho
+- LinkedIn:
+- GitHub:
+---
+## Estrutura
+- P1
+- P2
+- Requisitos-ABP
+- Reflexoes
+---
+## Projeto ABP
+Descrição do problema escolhido.
+---
+## Aprendizados
+Registro reflexivo sobre evolução no semestre.
